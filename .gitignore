@@ -6,7 +6,7 @@ target/
 **/web
 **/mapper
 **/application-dev.properties
-/src/test/**/*
+**/CodeGenerator.java
 
 ### STS ###
 .apt_generated
