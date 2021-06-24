@@ -1,9 +1,12 @@
 target/
 
-**/dao/
+**/dao
 **/model
 **/service
 **/web
+**/mapper
+**/application-dev.properties
+/src/test/**/*
 
 ### STS ###
 .apt_generated
